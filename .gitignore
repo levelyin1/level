@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+circuits/artifacts/*.wasm
+circuits/artifacts/*.zkey
+circuits/artifacts/circuit-info.json
+circuits/artifacts/CHECKSUMS.txt
+.DS_Store
